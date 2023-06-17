@@ -1,0 +1,35 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid 3debdd00-9c5c-48ef-9c62-7d40fede8243)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (hierarchical_label "CON-B+" (shape input) (at 48.26 76.2 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid 08378b82-d67a-4537-b805-9df1272e5b08)
+  )
+  (hierarchical_label "CON-A-" (shape input) (at 48.26 82.55 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid 2a2782ed-b7d8-42b8-8922-ace9d66c2898)
+  )
+  (hierarchical_label "Tx_RS485_eXT" (shape input) (at 80.01 83.82 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid 5c297275-1cb8-4a83-8129-4f7423bbd66e)
+  )
+  (hierarchical_label "CON_RS485_eXT" (shape input) (at 80.01 76.2 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid 66d3d51d-6a38-489f-851d-fd231bc99625)
+  )
+  (hierarchical_label "Rx_RS485_eXT" (shape input) (at 80.01 80.01 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid a75c2f2d-b4b7-42a5-86b6-5de574d82342)
+  )
+  (hierarchical_label "RGND" (shape input) (at 48.26 86.36 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid fb3e19de-b236-4fd4-9891-0c6cfab72129)
+  )
+)

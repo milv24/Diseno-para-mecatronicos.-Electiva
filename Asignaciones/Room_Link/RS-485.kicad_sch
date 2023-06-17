@@ -1,0 +1,31 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid 8986246f-12e5-4317-8713-bac437ec8263)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (hierarchical_label "COM_RS485_LCD" (shape input) (at 73.66 73.66 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid 36fe0182-d8ba-4a99-b33e-edde74000804)
+  )
+  (hierarchical_label "CON-LCDB+" (shape input) (at 73.66 54.61 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid 53e2e18b-65c4-41c1-abc5-0f630e5b6374)
+  )
+  (hierarchical_label "Tx_RS485_LCD" (shape input) (at 73.66 62.23 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid 7724242d-389b-4c5f-9460-6287344cbbe6)
+  )
+  (hierarchical_label "Rx_RS485_lcd" (shape input) (at 74.93 66.04 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid a5040393-6ce9-4f62-9c8a-8c03bb4d3937)
+  )
+  (hierarchical_label "CON-LCDA" (shape input) (at 73.66 50.8 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid e9025136-a6e8-43f6-a85d-7b794f056f3e)
+  )
+)
