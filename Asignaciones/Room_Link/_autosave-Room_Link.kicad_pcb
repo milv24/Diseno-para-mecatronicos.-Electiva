@@ -1,0 +1,127 @@
+(kicad_pcb (version 20221018) (generator pcbnew)
+
+  (general
+    (thickness 1.6)
+  )
+
+  (paper "A4")
+  (layers
+    (0 "F.Cu" signal)
+    (31 "B.Cu" signal)
+    (32 "B.Adhes" user "B.Adhesive")
+    (33 "F.Adhes" user "F.Adhesive")
+    (34 "B.Paste" user)
+    (35 "F.Paste" user)
+    (36 "B.SilkS" user "B.Silkscreen")
+    (37 "F.SilkS" user "F.Silkscreen")
+    (38 "B.Mask" user)
+    (39 "F.Mask" user)
+    (40 "Dwgs.User" user "User.Drawings")
+    (41 "Cmts.User" user "User.Comments")
+    (42 "Eco1.User" user "User.Eco1")
+    (43 "Eco2.User" user "User.Eco2")
+    (44 "Edge.Cuts" user)
+    (45 "Margin" user)
+    (46 "B.CrtYd" user "B.Courtyard")
+    (47 "F.CrtYd" user "F.Courtyard")
+    (48 "B.Fab" user)
+    (49 "F.Fab" user)
+    (50 "User.1" user)
+    (51 "User.2" user)
+    (52 "User.3" user)
+    (53 "User.4" user)
+    (54 "User.5" user)
+    (55 "User.6" user)
+    (56 "User.7" user)
+    (57 "User.8" user)
+    (58 "User.9" user)
+  )
+
+  (setup
+    (pad_to_mask_clearance 0)
+    (pcbplotparams
+      (layerselection 0x00010fc_ffffffff)
+      (plot_on_all_layers_selection 0x0000000_00000000)
+      (disableapertmacros false)
+      (usegerberextensions false)
+      (usegerberattributes true)
+      (usegerberadvancedattributes true)
+      (creategerberjobfile true)
+      (dashed_line_dash_ratio 12.000000)
+      (dashed_line_gap_ratio 3.000000)
+      (svgprecision 4)
+      (plotframeref false)
+      (viasonmask false)
+      (mode 1)
+      (useauxorigin false)
+      (hpglpennumber 1)
+      (hpglpenspeed 20)
+      (hpglpendiameter 15.000000)
+      (dxfpolygonmode true)
+      (dxfimperialunits true)
+      (dxfusepcbnewfont true)
+      (psnegative false)
+      (psa4output false)
+      (plotreference true)
+      (plotvalue true)
+      (plotinvisibletext false)
+      (sketchpadsonfab false)
+      (subtractmaskfromsilk false)
+      (outputformat 1)
+      (mirror false)
+      (drillshape 1)
+      (scaleselection 1)
+      (outputdirectory "")
+    )
+  )
+
+  (net 0 "")
+
+  (gr_line (start 93.9 35.6) (end 93.9 71.515)
+    (stroke (width 0.2) (type solid)) (layer "Dwgs.User") (tstamp 0dab06b7-9b98-4df2-9bd7-bcc97c419a43))
+  (gr_line (start 93.9 82.765) (end 93.9 118.68)
+    (stroke (width 0.2) (type solid)) (layer "Dwgs.User") (tstamp 2fe7fe05-a9aa-4fd3-a7cf-60fd912cdce9))
+  (gr_line (start 194.58 71.515) (end 196.28 71.515)
+    (stroke (width 0.2) (type solid)) (layer "Dwgs.User") (tstamp 3e11ead3-7f05-4aea-a7a0-3174d051c60f))
+  (gr_line (start 194.58 82.765) (end 194.58 71.515)
+    (stroke (width 0.2) (type solid)) (layer "Dwgs.User") (tstamp 49136ef0-54c8-4805-853c-d3d3cd2ae603))
+  (gr_line (start 93.9 118.68) (end 196.28 118.68)
+    (stroke (width 0.2) (type solid)) (layer "Dwgs.User") (tstamp 4b722f65-0ee7-41d9-a5cb-370368b42605))
+  (gr_circle (center 187.59 52.14) (end 188.79 52.14)
+    (stroke (width 0.2) (type solid)) (fill none) (layer "Dwgs.User") (tstamp 61325749-5c2d-4d05-8806-f8ba7f661534))
+  (gr_line (start 196.28 35.6) (end 93.9 35.6)
+    (stroke (width 0.2) (type solid)) (layer "Dwgs.User") (tstamp 8dc88989-f0e0-4922-a03a-954876e18780))
+  (gr_line (start 196.28 71.515) (end 196.28 35.6)
+    (stroke (width 0.2) (type solid)) (layer "Dwgs.User") (tstamp 9c328b19-5dee-47ba-9419-b4454f715462))
+  (gr_circle (center 102.59 102.14) (end 103.79 102.14)
+    (stroke (width 0.2) (type solid)) (fill none) (layer "Dwgs.User") (tstamp ad42365a-6d75-4235-a096-13da977c303b))
+  (gr_line (start 194.58 82.765) (end 196.28 82.765)
+    (stroke (width 0.2) (type solid)) (layer "Dwgs.User") (tstamp bd759f18-ddb5-44ce-bccf-287f823fa91f))
+  (gr_line (start 196.28 118.68) (end 196.28 82.765)
+    (stroke (width 0.2) (type solid)) (layer "Dwgs.User") (tstamp c9d326fa-1500-489c-ac96-b32f439a231f))
+  (gr_line (start 95.6 71.515) (end 93.9 71.515)
+    (stroke (width 0.2) (type solid)) (layer "Dwgs.User") (tstamp d65029b1-24a0-40bb-ab7c-1bb469d82a06))
+  (gr_line (start 95.6 82.765) (end 93.9 82.765)
+    (stroke (width 0.2) (type solid)) (layer "Dwgs.User") (tstamp efb1cb7c-791b-4b09-80f7-63e15b1ff176))
+  (gr_line (start 95.6 82.765) (end 95.6 71.515)
+    (stroke (width 0.2) (type solid)) (layer "Dwgs.User") (tstamp f3c5254d-48cb-464c-a3c6-9245411726d3))
+
+  (group "" (id f98a5be1-1b01-487c-b939-44de61db4d9a)
+    (members
+      0dab06b7-9b98-4df2-9bd7-bcc97c419a43
+      2fe7fe05-a9aa-4fd3-a7cf-60fd912cdce9
+      3e11ead3-7f05-4aea-a7a0-3174d051c60f
+      49136ef0-54c8-4805-853c-d3d3cd2ae603
+      4b722f65-0ee7-41d9-a5cb-370368b42605
+      61325749-5c2d-4d05-8806-f8ba7f661534
+      8dc88989-f0e0-4922-a03a-954876e18780
+      9c328b19-5dee-47ba-9419-b4454f715462
+      ad42365a-6d75-4235-a096-13da977c303b
+      bd759f18-ddb5-44ce-bccf-287f823fa91f
+      c9d326fa-1500-489c-ac96-b32f439a231f
+      d65029b1-24a0-40bb-ab7c-1bb469d82a06
+      efb1cb7c-791b-4b09-80f7-63e15b1ff176
+      f3c5254d-48cb-464c-a3c6-9245411726d3
+    )
+  )
+)
