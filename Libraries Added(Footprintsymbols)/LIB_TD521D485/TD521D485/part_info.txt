@@ -1,0 +1,9 @@
+Manufacturer=Mornsun Power
+PartNumber=TD521D485
+PartCategory=Power Supply
+PackageCategory=Other
+PinCount=9
+Version=1.4
+Released=2020-03-24 12:00:20
+Downloaded=2023-06-28 06:07:33
+3D=Y

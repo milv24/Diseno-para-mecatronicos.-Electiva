@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'SMBJ12CA'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Bourns", "SMBJ12CA" (!) = "", "DIONM5443X244N", "Diodes Moulded Non Polarised", "652-SMBJ12CA", "https://www.mouser.co.uk/ProductDetail/Bourns/SMBJ12CA?qs=d7fLapxX37HuPPjHuz97DA%3D%3D", "BOURNS - SMBJ12CA - TVS DIODE, 600W, 12V, BIDIR, DO-214AA", "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-DGA26/1840764.pdf", "2.44 mm"
+END_PART
+
+END.

@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'PTS12066V050'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "RS_PART_NUMBER", "RS_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Eaton", "PTS12066V050" (!) = "", "FUSC3216X68N", "Fuses Chip", "", "", "EATON BUSSMANN SERIES - PTS12066V050 - PPTC RESETTABLE FUSE, 0.5A, 6VDC, SMD", "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/e66d371ed70f5642c3d30d44a7b862be.pdf", "0.68 mm"
+END_PART
+
+END.

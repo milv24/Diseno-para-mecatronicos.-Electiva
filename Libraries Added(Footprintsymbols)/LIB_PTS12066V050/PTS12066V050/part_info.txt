@@ -1,0 +1,9 @@
+Manufacturer=Eaton
+PartNumber=PTS12066V050
+PartCategory=Fuse
+PackageCategory=Fuses Chip
+PinCount=2
+Version=1.1
+Released=2019-10-08 02:58:02
+Downloaded=2023-07-11 00:06:37
+3D=Y

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SMBJ12CA
+D BOURNS - SMBJ12CA - TVS DIODE, 600W, 12V, BIDIR, DO-214AA
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-DGA26/1840764.pdf
+$ENDCMP
+#
+#End Doc Library

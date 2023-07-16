@@ -1,4 +1,4 @@
-21742103609032894
+21762352564618152
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -84727,6 +84727,27 @@ Logo WEEE
 0
 0
 0
+TBP04R12-500-02BE
+CUI_TBP04R12-500-02BE
+
+
+0
+2
+2
+TBP04R12-500-03BE
+CUI_TBP04R12-500-03BE
+
+
+0
+3
+3
+TBP04R12-500-08BE
+CUI_TBP04R12-500-08BE
+
+
+0
+8
+8
 TerminalBlock
 TerminalBlock_Altech_AK300-2_P5.00mm
 Altech AK300 terminal block, pitch 5.0mm, 45 degree angled, see http://www.mouser.com/ds/2/16/PCBMETRC-24178.pdf
@@ -90328,6 +90349,69 @@ varistor
 2
 2
 nueva huella
+esp32-devkitM-1
+
+
+0
+63
+55
+nuevo simbolo
+AZ921
+
+
+0
+4
+4
+nuevo simbolo
+B0505S-W2R2
+
+
+0
+4
+4
+nuevo simbolo
+CC12H1.5A-TR
+
+
+0
+2
+2
+nuevo simbolo
+FODM2705
+
+
+0
+4
+4
+nuevo simbolo
+SMBJ12CA
+
+
+0
+2
+2
+nuevo simbolo
+TD521D485H-E
+
+
+0
+9
+9
+nuevo simbolo
+TO_92
+
+
+0
+0
+0
+nuevo simbolo
+ct
+
+
+0
+4
+4
+nuevo simbolo
 esp32-devkitM-1
 
 

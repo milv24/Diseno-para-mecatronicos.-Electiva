@@ -1,0 +1,18 @@
+.TD521D485 :1 ;Interface Circuit
+TD521D485
+*STM PS
+*NGS
+*PLB 1="VCC" 2="GND" 3="TXD" 4="RXD" 5="CON" 7="VO" 8="B" 9="A" 10="RGND"
+*MXP 9
+*DFN TD521D485
+~!Manufacturer_Name (Mornsun Power)
+~!Manufacturer_Part_Number (TD521D485)
+~!Mouser Part Number (-)
+~!Mouser Price/Stock (-)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (-)
+~!Height (8.1mm)
+~!3D_Model (TD521D485)
+TD521D485
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 7.1!U 8.1!U 9.1!U 10.1!U 

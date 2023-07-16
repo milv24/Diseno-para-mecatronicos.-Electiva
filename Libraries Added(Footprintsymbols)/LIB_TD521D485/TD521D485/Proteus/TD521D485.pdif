@@ -1,0 +1,151 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "TD521D485"
+   (description "Interface Circuit")
+   (family "ANA")
+   (package "TD521D485")
+   (attribute "Datasheet Link" "")
+   (attribute "Geometry.Height" "8.1mm")
+   (attribute "Manufacturer_Name" "Mornsun Power")
+   (attribute "Manufacturer_Part_Number" "TD521D485")
+   (attribute "Mouser Part Number" "")
+   (attribute "Mouser Price/Stock" "")
+   (attribute "Arrow Part Number" "")
+   (attribute "Arrow Price/Stock" "")
+   (gate
+    (symbol "TD521D485")
+    (pin "VCC" 1 PS)
+    (pin "GND" 2 PS)
+    (pin "TXD" 3 PS)
+    (pin "RXD" 4 PS)
+    (pin "CON" 5 PS)
+    (pin "VO" 7 PS)
+    (pin "B" 8 PS)
+    (pin "A" 9 PS)
+    (pin "RGND" 10 PS)
+   )
+  )
+  (symbol "TD521D485"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 900 100) (pt 900 -500) (pt 200 -500) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 -400) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -300) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -200) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1100 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1100 -100) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1100 -200) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1100 -300) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "TD521D485"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -1.48 12.48)
+      (pt 16.72 12.48)
+      (pt 16.72 -2.32)
+      (pt -1.48 -2.32)
+      (pt -1.48 12.48))))
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -3.48 13.48)
+      (pt 17.72 13.48)
+      (pt 17.72 -3.32)
+      (pt -3.48 -3.32)
+      (pt -3.48 13.48))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -1.48 -2.32)
+      (pt 16.72 -2.32)
+      (pt 16.72 12.48)
+      (pt -1.48 12.48)
+      (pt -1.48 -2.32))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt -2.38 0)
+      (arc (pt -2.380 0.000) (pt -2.480 -0.200) (pt -2.280 0.000) (start 180.0) (sweep 90.0))
+      (pt -2.38 -0.2)
+      (arc (pt -2.380 -0.200) (pt -2.520 -0.200) (pt -2.240 0.080) (start 180.0) (sweep -90.0))
+      (pt -2.38 0.08))))
+   (leg 1 (pt 0.000 0.000) (padstack 0))
+   (leg 2 (pt 0.000 2.540) (padstack 0))
+   (leg 3 (pt 0.000 5.080) (padstack 0))
+   (leg 4 (pt 0.000 7.620) (padstack 0))
+   (leg 5 (pt 0.000 10.160) (padstack 0))
+   (leg 7 (pt 15.240 7.620) (padstack 0))
+   (leg 8 (pt 15.240 5.080) (padstack 0))
+   (leg 9 (pt 15.240 2.540) (padstack 0))
+   (leg 10 (pt 15.240 0.000) (padstack 0))
+   (padstack 0
+    (hole 1.2)
+    (plated true)
+    (pad (layer TCOP) (round 1.800))
+    (pad (layer INNER) (round 1.800))
+    (pad (layer BCOP) (round 1.800))
+   )
+   (model "TD521D485.stp"
+    (euler 0 0 0)
+    (offset 0 0 0)
+   )
+  )
+ )
+)
